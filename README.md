@@ -1,6 +1,7 @@
 # CO2-emissions
 
 M. Schotten (2023).  “The Rise and Fall of CO2 Emissions.  A data exploration into the best predictors of a country’s CO2 output, the top CO2 reducing countries & which renewable energies will become the cheapest.”  Technical Report by Dolphinity, the Netherlands, 56 pp.
+
 This report is offered pro bono by Dolphinity under a CC BY 4.0 license: https://creativecommons.org/licenses/by/4.0/. Please feel free to use and share this report (or any portions thereof) freely, with reference to the original report and the report’s author, Michiel Schotten.
 
 The data analysis presented in this report aims to answer the following three questions regarding CO2 emissions:
