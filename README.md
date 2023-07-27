@@ -12,6 +12,7 @@ The data analysis presented in this report aims to answer the following three qu
 
 All data analyses to answer these questions were done with custom Python code in two Jupyter Notebooks.  These Notebooks are supplements to this report and can also be found in this Github folder.
 
-Feedback and Requests:\n
+Feedback and Requests:
+
 Dear reader, if you have any feedback, comments and/or questions about this report or the results therein, I would very much appreciate if you could let me know at M.Schotten@dolphinity.io.  Also if you have any requests about data analyses on other topics of interest, literature reviews and/or customized reporting (either in short or longer formats), I invite you to contact me and am happy to discuss options with you.  Thank you for your interest.
 
