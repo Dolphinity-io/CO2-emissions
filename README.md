@@ -4,10 +4,10 @@ M. Schotten (2023).  “The Rise and Fall of CO<sub>2</sub> Emissions.  A data e
 
 _______________________________________________________________________________________________________________
 
-The data analysis presented in this report aims to answer the following three questions regarding CO2 emissions:
+The data analysis presented in this report aims to answer the following three questions regarding CO<sub>2</sub> emissions:
 
-    Q1.	What is the biggest predictor of a large CO<sub>2</sub> output per capita of a country?
-    Q2.	Which countries are making the biggest strides in decreasing CO<sub>2</sub> output?
+    Q1.	What is the biggest predictor of a large CO2 output per capita of a country?
+    Q2.	Which countries are making the biggest strides in decreasing CO2 output?
     Q3.	Which non-fossil fuel energy technology will have the best price in the future?
 
 All data analyses to answer these questions were done with custom Python code in two Jupyter Notebooks.  These Notebooks are supplements to this report and can also be found in this Github folder.
