@@ -13,7 +13,7 @@ The data analysis presented in this report aims to answer the following three qu
 All data analyses to answer these questions were done with custom Python code in two Jupyter Notebooks.  These Notebooks are supplements to this report and can also be found in this Github folder.
 
 
-This report is offered pro bono by Dolphinity under a CC BY 4.0 license: <a href=https://creativecommons.org/licenses/by/4.0/ target="_blank">https://creativecommons.org/licenses/by/4.0/</a>. Please feel free to use and share this report (or any portions thereof) freely, with reference to the original report and the report’s author, M. Schotten.
+This report is offered pro bono by Dolphinity under a CC BY 4.0 license: <a href=https://creativecommons.org/licenses/by/4.0/ target="_blank">CC BY 4.0 link</a>. Please feel free to use and share this report (or any portions thereof) freely, with reference to the original report and the report’s author, M. Schotten.
 
 _______________________________________________________________________________________________________________
 
