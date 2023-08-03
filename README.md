@@ -1,6 +1,6 @@
 # CO2-emissions
 
-M. Schotten (2023).  “The Rise and Fall of CO<sub>2</sub> Emissions.  A data exploration into the best predictors of a country’s CO<sub>2</sub> output, the top CO<sub>2</sub> reducing countries & which renewable energies will become the cheapest.”  Technical Report by Dolphinity, the Netherlands, 56 pp.
+M. Schotten (2023).  <em>The Rise and Fall of CO<sub>2</sub> Emissions.  A data exploration into the best predictors of a country’s CO<sub>2</sub> output, the top CO<sub>2</sub> reducing countries & which renewable energies will become the cheapest.</em>  Technical Report by Dolphinity, the Netherlands, 56 pp. Available at: https://github.com/Dolphinity-io/CO2-emissions.
 
 _______________________________________________________________________________________________________________
 
@@ -13,7 +13,7 @@ The data analysis presented in this report aims to answer the following three qu
 All data analyses to answer these questions were done with custom Python code in two Jupyter Notebooks.  These Notebooks are supplements to this report and can also be found in this Github folder.
 
 
-This report is offered pro bono by Dolphinity under a CC BY 4.0 license: https://creativecommons.org/licenses/by/4.0/. Please feel free to use and share this report (or any portions thereof) freely, with reference to the original report and the report’s author, M. Schotten.
+This report is offered pro bono by Dolphinity under a CC BY 4.0 license: <a href=https://creativecommons.org/licenses/by/4.0/ target="_blank">https://creativecommons.org/licenses/by/4.0/</a>. Please feel free to use and share this report (or any portions thereof) freely, with reference to the original report and the report’s author, M. Schotten.
 
 _______________________________________________________________________________________________________________
 
